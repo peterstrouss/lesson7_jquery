@@ -1,0 +1,3 @@
+My Recipe Page
+
+For the extra credit, I added the recipe for the most perfect peanut butter cookies.  The recipe has been in my family for decades and I highly recommend that whomever is reading this follow the recipe and make these!  Despite how it may look, I wasn't being lazy, this is the full and complete recipe with nothing omitted.  For the .js file I added the similar components to the assignment, but it loads fast insead of slow, and hovers red, with a gold highlight.  This was of course inspired to be as close to Garnet and Gold as I could get! Go Noles!
